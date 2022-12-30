@@ -1,10 +1,11 @@
 # T20 World Cup Cricket Data Analytics
 
-  *   Performed data analytics on T20 world cup cricket (2022) data to build a team of dream 11 players
-  *   Used web scraping (through bright data) to scrap T20 cricket world cup data from espncricinfo website
-  *   Used Python, Pandas and Jupyter Notebook for data transformation and data cleaning 
-  *   Built an interactive dashboard using Power BI to generate insights on the best 11 players. Inside Power BI, Power Query was used for further data transformation and Dax for parameter building
-  *   Used Kanban methodology and Gitlab issue tracker for project management
+  *  Analyzed data from over 50 T20 matches played during the 2022 world cup, using various statistical and machine learning techniques, to identify the most effective players and build a dream team.
+  *  Utilized the BrightData library to extract data from the espncricinfo website, including match scores, player statistics, and other relevant information.
+  *  Implemented data cleaning and transformation procedures using Python and its Pandas library, and used Jupyter Notebook as the development environment.
+  *  Created a Power BI dashboard that allows users to explore and visualize the data in various ways, including through interactive charts and graphs.
+  *  Used Power Query within Power BI to perform additional data transformations, and utilized DAX (Data Analysis Expression) to build parameters and measures for the dashboard.
+  *  Followed a Kanban-style project management approach, using GitLab's issue tracker to track and prioritize tasks and progress
   *   Interactive dashboard is available on npvyPro for your review:https://www.novypro.com/project/codebasicsscricanalysis
 
 ![Screenshot 2022-12-24 141834](https://user-images.githubusercontent.com/101073959/209465733-d4c14aec-6849-4131-a9cc-a15f7f443751.png)
